@@ -1,0 +1,14 @@
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Assembly-CSharp.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\UnityEditor.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\UnityEngine.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\UnityEngine.UI.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Mono.Cecil.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Unity.DataContract.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\GameDevelopment\Exciting journey\Temp\bin\Debug\Unity.CecilTools.dll
+F:\GameDevelopment\Exciting journey\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\GameDevelopment\Exciting journey\obj\Debug\Assembly-CSharp.dll
+F:\GameDevelopment\Exciting journey\obj\Debug\Assembly-CSharp.pdb
